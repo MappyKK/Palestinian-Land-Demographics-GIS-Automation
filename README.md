@@ -27,26 +27,44 @@ Layers Used:
 
 Layer Definitions:
 •	Israel Administrative Boundaries
+
    o This layer illustrates the Israeli District Boundaries in Israel Proper. Ex: Central District.
+   
 •	Oslo Agreement Jurisdiction Borders
+
    o	This layer illustrates land that is controlled by Palestinians in the West Bank. 
+   
    o	Area A is land that is under Palestinian civil and security control.
+   
    o	Area B is land that is under Palestinian civil and Israeli military control. 
+   
    o	H1 is a special case in Hebron that most resembles Area A.
-   o	H2 is a special case in Hebron that most resembles Area B, but Israelis are allowed to settle there, which is usually not the case in Area B where only Palestinians (violated in some areas) are allowed to settle and develop. 
+   
+   o	H2 is a special case in Hebron that most resembles Area B, but Israelis are allowed to settle there, which is usually not the case in Area B where only Palestinians (violated in some areas) are allowed to settle and develop.
+   
    o	The Nature Reserve is land that is designated as a Nature Reserve under the Wye River Memorandum which is under Palestinian civil and Israeli military control. 
+   
    o	Although not included in this layer, Area C is land that is under full Israeli military and civil control with Palestinians and the majority of Israeli settlers living there. In other words, Area C is anywhere in the West Bank that        is not the Nature Reserve, Area A, B, H1, or H2. 
+   
 •	Palestine Governorate Boundaries
+
    o	This layer illustrates the Palestinian governorate boundaries in the West Bank and Gaza Strip. Ex: Jericho Governorate.
+   
 •	Palestinian Land Mass
+
    o	This layer illustrates the amount of land that Palestinians have developed in Area C, and the H2 (not including the Seam Zone), and controlled in Area A, B, H1, and the Nature Reserve. It also includes land that is developed by             Palestinians in Israel Proper and the Gaza Strip.
+   
 •	Palestinian Seam Zone Land
+
    o	This layer illustrates Palestinian land that is developed in the Seam Zone. Depending on the context, the Seam Zone can have many definitions. These definitions are as follows, any land that is in between the Green Line (West Bank         internationally recognized borders) and the West Bank barrier OR any land that is in the Jerusalem District but cut off from receiving Jerusalem municipal services in the West Bank due to the barrier OR any land that is trapped in         between an Israeli district and the West Bank barrier.
+   
 •	East Jerusalem Boundary
+
    o	This layer illustrates the East Jerusalem municipal boundary.
 
 
 Where to Access/Download Layers:
+
 [Download Data Here] (https://www.arcgis.com/home/user.html?user=MappyK)
 
 
