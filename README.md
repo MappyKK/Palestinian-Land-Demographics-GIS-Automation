@@ -29,7 +29,7 @@ Layer Definitions:
 
 •	Israel Administrative Boundaries
 
-      o This layer illustrates the Israeli District Boundaries in Israel Proper. Ex: Central District.
+      o     This layer illustrates the Israeli District Boundaries in Israel Proper. Ex: Central District.
    
 •	Oslo Agreement Jurisdiction Borders
 
@@ -57,16 +57,16 @@ Layer Definitions:
    
 •	Palestinian Seam Zone Land
 
-         o	This layer illustrates Palestinian land that is developed in the Seam Zone. Depending on the context, the Seam Zone can have many definitions. These definitions are as follows, any land that is in between the Green Line (West Bank internationally recognized borders) and the West Bank barrier OR any land that is in the Jerusalem District but cut off from receiving Jerusalem municipal services in the West Bank due to the barrier OR any land that is trapped in between an Israeli district and the West Bank barrier.
+      o	This layer illustrates Palestinian land that is developed in the Seam Zone. Depending on the context, the Seam Zone can have many definitions. These definitions are as follows, any land that is in between the Green Line (West Bank internationally recognized borders) and the West Bank barrier OR any land that is in the Jerusalem District but cut off from receiving Jerusalem municipal services in the West Bank due to the barrier OR any land that is trapped in between an Israeli district and the West Bank barrier.
    
 •	East Jerusalem Boundary
 
-         o	This layer illustrates the East Jerusalem municipal boundary.
+      o	This layer illustrates the East Jerusalem municipal boundary.
 
 
 Where to Access/Download Layers:
 
-[Download Data Here] (https://www.arcgis.com/home/user.html?user=MappyK)
+[https://www.arcgis.com/home/user.html?user=MappyK](Download Data Here)
 
 
 Steps Taken:
