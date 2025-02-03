@@ -66,7 +66,7 @@ Layer Definitions:
 
 Where to Access/Download Layers:
 
-[https://www.arcgis.com/home/user.html?user=MappyK](Download Data Here)
+[https://www.arcgis.com/home/user.html?user=MappyK] (Data)
 
 
 Steps Taken:
