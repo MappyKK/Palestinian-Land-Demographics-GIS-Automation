@@ -28,17 +28,17 @@ Layers Used:
 Layer Definitions:
 •	Israel Administrative Boundaries
 
-   o This layer illustrates the Israeli District Boundaries in Israel Proper. Ex: Central District.
+      o This layer illustrates the Israeli District Boundaries in Israel Proper. Ex: Central District.
    
 •	Oslo Agreement Jurisdiction Borders
 
-   o	This layer illustrates land that is controlled by Palestinians in the West Bank. 
+      o	This layer illustrates land that is controlled by Palestinians in the West Bank. 
    
-   o	Area A is land that is under Palestinian civil and security control.
+      o	Area A is land that is under Palestinian civil and security control.
    
-   o	Area B is land that is under Palestinian civil and Israeli military control. 
+      o	Area B is land that is under Palestinian civil and Israeli military control. 
    
-   o	H1 is a special case in Hebron that most resembles Area A.
+      o	H1 is a special case in Hebron that most resembles Area A.
    
    o	H2 is a special case in Hebron that most resembles Area B, but Israelis are allowed to settle there, which is usually not the case in Area B where only Palestinians (violated in some areas) are allowed to settle and develop.
    
