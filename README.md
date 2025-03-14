@@ -11,7 +11,7 @@ Creates and exports interactive and non-interactive Pie Charts that illustrates 
 
 # How It's Made
 
-Coding Languages/Libraries: Python, Pandas, GeoPandas, Matplotlib, Plotly, html2image
+Coding Languages/Libraries: Python, Pandas, GeoPandas, Matplotlib, Plotly
 
 Data Types Supported: GeoJSON (best), other forms of spatial data such as shapefiles, geopackages (may need to make some modifications) etc...
 
@@ -24,6 +24,9 @@ Layers Used:
 - Oslo Agreement Jurisdiction Borders
 - Palestine Governorate Boundaries
 - Israel Administrative Boundaries
+
+Kaleido:
+- Make sure you have Kaleido installed, see known issues for more information
 
 Layer Definitions:
 
@@ -91,6 +94,18 @@ Steps Taken:
 
 Modifications to the data will force me to modify the code in order to reflect the changes
 
+Kaleido
+
+If using Windows, more specifically have this version installed in order to write an image: 
+
+      pip install kaleido==0.1.0post1 
+
+If you are using Mac/Linux:
+
+      pip install kaleido
+
 # Future Updates
 
 When I finish digitizing the Israeli Land Mass layer, the pie charts as well as summary statistic data code will be updated accordingly to allow for more accurate analysis/data.
+
+Might Automate Map Creation.
