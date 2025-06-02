@@ -76,7 +76,7 @@ Steps Taken:
    
    Gets the head of each layer
    
-   Checks and changes projection of all layers to EPSG:4326 to prepare for area calculations
+   Checks and changes projection of all layers to EPSG:28191 to prepare for area calculations
    
    Modifies certain attributes and field name to prepare for area calculations
 
