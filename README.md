@@ -11,7 +11,7 @@ Creates and exports interactive and non-interactive Pie Charts that illustrates 
 
 # How It's Made
 
-Coding Languages/Libraries: Python, Pandas, GeoPandas, Matplotlib, Plotly
+Coding Languages/Libraries: Python, Pandas, GeoPandas, Matplotlib, Plotly, Shapely
 
 Data Types Supported: GeoJSON (best), other forms of spatial data such as shapefiles, geopackages (may need to make some modifications) etc...
 
@@ -81,14 +81,16 @@ Steps Taken:
    Modifies certain attributes and field name to prepare for area calculations
 
    Excludes the Golan Heights
+
+   Fix Geometries 
    
-2. Calculate the Area in square miles of each boundary
+3. Calculate the Area in square miles of each boundary
    
    Calculated Boundaries of Israel Proper, Area A, B, H1, H2, the Nature Reserve, Gaza Strip, East Jerusalem and Area C
    
-3.  Calculate the total area of Palestinian land within each of the boundaries listed above
-4.  Calculate the percentage of the total area of Palestinian land within each of the boundaries
-5.  Create Pie charts illustrating the amount of land that Palestinians have developed and controlled in each of the the governorates in the West Bank 
+4.  Calculate the total area of Palestinian land within each of the boundaries listed above
+5.  Calculate the percentage of the total area of Palestinian land within each of the boundaries
+6.  Create Pie charts illustrating the amount of land that Palestinians have developed and controlled in each of the the governorates in the West Bank 
   
 # Known Issues
 
